@@ -1,5 +1,11 @@
 {
-  "schemaVersion": 1,
-  "edition": "pc28",
-  "status": "empty"
+  "version": "2.2.6",
+  "notes": "修复已知问题",
+  "pub_date": "2026-10-27T05:59:18.951Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://pc28-updates.dev-forge.one/releases/2.2.6/windows-x86_64/yinhe-2.2.6-windows-x86_64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc20xQ1VpZzZsMWNDYWZyTm1kU1krSmRDMXNaODNIczE0bjM4ZTE4aEcxU2M3elRUMTdwbzhsL0g1bzU1WUpGcjM1cG5iSmhmRkF0TFQwWXZGdmZ3bE5KMkFCSFpmcFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDgwNzE2CWZpbGU65ZCv5piO5pifXzIuMi42X3g2NC1zZXR1cC5leGUKTG5ZaE14c2M2U1lDZWxjeEIrTEMxcGg1cXpTYmZmMkRyNlRYYkxUZCtvcWxReWdmd0E1Tys2VEYzVVc3eUJ5Qytxd000a0hMVUF3ZkRQODNiaFlkQlE9PQo="
+    }
+  }
 }
