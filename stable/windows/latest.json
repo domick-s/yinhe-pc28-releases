@@ -1,11 +1,11 @@
 {
-  "version": "3.0.1",
+  "version": "3.1.0",
   "notes": "修复已知问题",
-  "pub_date": "2026-10-29T14:40:37.708Z",
+  "pub_date": "2026-11-02T12:27:56.115Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://pc28-updates.dev-forge.one/releases/3.0.1/windows-x86_64/yinhe-3.0.1-windows-x86_64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc20xQ1VpZzZsMVlCRTRLeDNqTUNIaFNMQXV5bmpZTFJsQWMza1VTUEUyQ3FWbW01Z3B5Z2NsQ2VxaVpFWnJkT3RFK2I1TkdLam5YUFZYbEdzRTRkWm15eUljUjRsZ3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjg1MDYzCWZpbGU65ZCv5piO5pifXzMuMC4xX3g2NC1zZXR1cC5leGUKSENTQjhKRWcrVTZ1TTBKc2dkNnorZUJic0MzU0dORmlVNm1rY1draVcra052bWtKMllQQ0E3a2MvQ1JnQWtQYzNsZ240TlduVGtNSVdPOUtXaVd1Q1E9PQo="
+      "url": "https://pc28-updates.dev-forge.one/releases/3.1.0/windows-x86_64/yinhe-3.1.0-windows-x86_64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc20xQ1VpZzZsMVNSc3hsRmxiRHI0aHV0RTROdy91QlAzTlR0M1dIb0hPWkxVOXRLaS8rZm1pOXJVNi9VbW8wVVpHWDdSTVVrb2RPK2ZJTTRJblRQVUMyZFNpS2I3NWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjIyNzIwCWZpbGU65ZCv5piO5pifXzMuMS4wX3g2NC1zZXR1cC5leGUKL0d4UFFuenJLaWZuZFB2S1FhaVFFYTl5ZEhtNnN4cVY1OW1PVmh4d3V2RG16cUduSm12cXExbktCbGVYVXpSMW1raEZWdjN1ckwrdmhWZm5mM29oRGc9PQo="
     }
   }
 }
